@@ -2,7 +2,7 @@
 
 A React based web App to display properties and sort / filter / search the properties.
 The Data is being fetched from Mock API using JSON Server.
-To see the Live Demo [Click Here](http://mylink.com/)
+To see the Live Demo [Click Here](https://colossal-ladybug.surge.sh/)
 The directory structure of the project is as follows:
 
 ## Installing Dependencies
